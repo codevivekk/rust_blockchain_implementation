@@ -4,6 +4,7 @@ This is a basic implementation of a Blockchain in Rust, showcasing how blocks ar
 
 
 Getting Started
+
 git clone https://github.com/codevivekk/rust_blockchain_implementation.git
 cd rust_blockchain_implementation
 cargo run
